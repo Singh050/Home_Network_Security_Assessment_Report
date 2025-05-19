@@ -26,10 +26,6 @@ The report includes:
 - CVE Lookup tools  
 - Dradis-style reporting template
 
-## 📄 Report Files
-
-- [Home_Network_Security_Assessment_Report_Clean.pdf]([./Home_Network_Security_Assessment_Report_Clean.pdf](https://github.com/Singh050/Home_Network_Security_Assessment_Report/blob/main/Home_Network_Security_Assessment_Report.pdf)) – Final PDF version for sharing
-
 ## 📚 Frameworks Referenced
 
 - **NIST SP 800-53** – Security and privacy controls  
