@@ -17,6 +17,10 @@ The report includes:
 - Recommendations based on NIST controls
 - Tools used for scanning and analysis
 
+## 📄 Report Files
+- 📄 [View PDF via Google Docs Viewer](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Home_Network_Security_Assessment_Report/main/Home_Network_Security_Assessment_Report.pdf)
+
+
 ## 🛠️ Tools Used
 
 - `Nmap` – Port scanning and service detection  
