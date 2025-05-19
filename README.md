@@ -28,7 +28,7 @@ The report includes:
 
 ## 📄 Report Files
 
-- [Home_Network_Security_Assessment_Report_Clean.pdf](./Home_Network_Security_Assessment_Report_Clean.pdf) – Final PDF version for sharing
+- [Home_Network_Security_Assessment_Report_Clean.pdf]([./Home_Network_Security_Assessment_Report_Clean.pdf](https://github.com/Singh050/Home_Network_Security_Assessment_Report/blob/main/Home_Network_Security_Assessment_Report.pdf)) – Final PDF version for sharing
 
 ## 📚 Frameworks Referenced
 
