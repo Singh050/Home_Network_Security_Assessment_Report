@@ -18,7 +18,7 @@ The report includes:
 - Tools used for scanning and analysis
 
 ## 📄 Report Files
-<p>  <a href="https://docs.google.com/viewer?url=Home_Network_ Security_Assessment_Report.pdf" target="_blank">
+<p>  <a href="https://docs.google.com/viewer?url=[Home_Network_ Security_Assessment_Report.pdf](https://github.com/Singh050/Home_Network_Security_Assessment_Report/blob/main/Home_Network_%20Security_Assessment_Report.pdf)" target="_blank">
     <img src="https://img.shields.io/badge/View%20PDF-Open%20Report-blue?style=for-the-badge&logo=google-chrome" alt="View PDF">
   </a></p>
 
