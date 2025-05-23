@@ -65,8 +65,4 @@ Key outcomes of this assessment include:
 
 ---
 
-> ✅ Feel free to use this template to structure your own internal network assessments.
-
----
-
 **© 2025 Barjinder Singh – All rights reserved.**
